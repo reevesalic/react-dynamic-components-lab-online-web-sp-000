@@ -2,6 +2,7 @@
   "name": "react-dynamic-components-lab",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "babel": {
     "presets": [
       "airbnb",
@@ -10,7 +11,7 @@
       "react"
     ]
   },
-  "type": "module"
+  
   "dependencies": {
     "mocha-multi": "^1.1.3",
     "react": "^16.12.0",
